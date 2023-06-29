@@ -5,3 +5,8 @@
 # .tfstate files
 *.tfstate
 *.tfstate.*
+
+awshelber.pem
+
+
+
