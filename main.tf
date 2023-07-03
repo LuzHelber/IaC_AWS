@@ -19,6 +19,6 @@ resource "aws_instance" "app_server" {
   key_name      = "awshelber"
 
   tags = {
-    Name = "Teste AWS"
+    Name = "AWS Ansible Python"
   }
 }
